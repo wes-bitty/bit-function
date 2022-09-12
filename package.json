@@ -1,6 +1,6 @@
 {
   "name": "@wesbitty/bit-function",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Javascript Client library",
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
