@@ -1,2 +1,3 @@
-# bit-function
-JS Client library to interact with Bitty Functions.
+# `bit-function`
+
+JS Client library to interact with Wesbitty Functions.
